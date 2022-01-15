@@ -53,14 +53,14 @@ let config = [
   {
     'start': {
       'hour': 6,
-      'minute': 30
+      'minute': 0
     },
-    'background': '#4f2a00'
+    'background': '#6b5400'
   },
   {
     'start': {
-      'hour': 7,
-      'minute': 0
+      'hour': 6,
+      'minute': 45
     },
     'background': '#133b00'
   },
