@@ -1,8 +1,6 @@
 .container {
   font-size: 80px;
-  margin: 25px;
-  width: 100%;
-  height: 50%;
+  width: 99%;
 }
 
 .clock {
@@ -10,5 +8,5 @@
   width: 1em;
   height: 1em;
   /* Center horizontally*/
-  margin: 40% auto;
+  margin: 25% auto;
 }
