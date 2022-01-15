@@ -1,6 +1,4 @@
 function main() {
-  console.log('hello');
-
   applyConfig(
     getCurrentConfig()
   )
